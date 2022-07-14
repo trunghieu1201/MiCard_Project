@@ -79,29 +79,7 @@ class MyApp extends StatelessWidget {
                   ),
                 ),
               ),
-              // Container(
-              //   color: Colors.grey[800],
-              //   margin: EdgeInsets.symmetric(vertical: 10.0, horizontal: 30),
-              //   child: Row(
-              //     children: [
-              //       Icon(
-              //         Icons.facebook,
-              //         color: Colors.grey[100],
-              //         size: 50.0,
-              //       ),
-              //       Icon(
-              //         Icons.,
-              //         color: Colors.grey[100],
-              //         size: 50.0,
-              //       ),
-              //       Icon(
-              //         Icons.facebook,
-              //         color: Colors.grey[100],
-              //         size: 50.0,
-              //       ),
-              //     ],
-              //   ),
-              // ),
+             
             ],
           ),
         ),
